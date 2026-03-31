@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jesiel Fillietaz
 
-🎯 Analista de Sistemas em transição de carreira, com background em Planejamento de Produção e forte visão de negócio.  
+🎯 Analista de Sistemas, com background em Planejamento de Produção e forte visão de negócio.  
 💻 Focado em desenvolvimento de sistemas, automação de processos e soluções para pequenas e médias empresas.
 
 ---
@@ -23,6 +23,7 @@
 - JavaScript
 - SQL (MySQL)
 - Delphi (Pascoal)
+- GoLang
 
 ### Backend
 - .NET
@@ -34,6 +35,7 @@
 - CSS3
 
 ### Banco de Dados
+- Sql Server
 - MySQL
 - Modelagem de dados
 - Relacionamentos e integridade
