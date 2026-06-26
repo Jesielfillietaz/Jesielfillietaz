@@ -7,7 +7,7 @@
 
 ##  Sobre mim
 
--  Analista de Sistemas**
+-  Analista de Sistemas
 -  Diferencial: entendo o **negócio + tecnologia**
 -  Desenvolvendo sistemas para **Qualquer Segmento**
 -  Interesse em sistemas de gestão, APIs e banco de dados
