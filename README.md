@@ -1,21 +1,21 @@
-# 👋 Olá, eu sou o Jesiel Fillietaz
+# Olá, eu sou o Jesiel Fillietaz
 
-🎯 Analista de Sistemas, com background em Planejamento de Produção e forte visão de negócio.  
-💻 Focado em desenvolvimento de sistemas, automação de processos e soluções para pequenas e médias empresas.
-
----
-
-## 🚀 Sobre mim
-
-- 🔄 Em transição da área de **Planejamento de Produção** para **TI / Análise de Sistemas**
-- 🧠 Diferencial: entendo o **negócio + tecnologia**
-- 🏗️ Desenvolvendo sistemas para **Qualquer Segmento**
-- 📊 Interesse em sistemas de gestão, APIs e banco de dados
-- 📚 Em constante aprendizado
+ Analista de Sistemas, com background em Planejamento de Produção e forte visão de negócio.  
+ Focado em desenvolvimento de sistemas, automação de processos e soluções para pequenas e médias empresas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Sobre mim
+
+-  Analista de Sistemas**
+-  Diferencial: entendo o **negócio + tecnologia**
+-  Desenvolvendo sistemas para **Qualquer Segmento**
+-  Interesse em sistemas de gestão, APIs e banco de dados
+-  Em constante aprendizado
+
+---
+
+## Tecnologias & Ferramentas
 
 ### Linguagens
 - C#
